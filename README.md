@@ -1,5 +1,8 @@
 I am learning how things work.
 
+
+## Blog Posts
+- [Understanding AI Agents, Agentic AI, and Agent Harnesses: A Practical Guide](https://anikchaudhary.com.np/notes/ai-agents-agentic-ai-and-agent-harnesses)
 <!--
 **anik-c/anik-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
